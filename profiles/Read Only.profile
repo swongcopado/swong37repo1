@@ -7570,6 +7570,16 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
+        <field>US07Test__c.US07TestField__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>US08Test__c.US08TestField__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
         <field>User.copado__API_URL__c</field>
         <readable>false</readable>
     </fieldPermissions>
@@ -13263,6 +13273,12 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>Task-Task Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>US07Test__c-US07Test Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>US08Test__c-US08Test Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>User-User Layout</layout>
