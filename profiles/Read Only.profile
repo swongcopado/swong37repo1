@@ -7580,6 +7580,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
+        <field>US09Test__c.US09TestField__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
         <field>User.copado__API_URL__c</field>
         <readable>false</readable>
     </fieldPermissions>
@@ -13279,6 +13284,9 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>US08Test__c-US08Test Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>US09Test__c-US09Test Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>User-User Layout</layout>
