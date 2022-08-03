@@ -7590,6 +7590,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
+        <field>US11Test__c.US11TestField__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
         <field>US12Test__c.US12TestField__c</field>
         <readable>false</readable>
     </fieldPermissions>
@@ -13305,6 +13310,9 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>US10Test__c-US10Test Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>US11Test__c-US11Test Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>US12Test__c-US12Test Layout</layout>
