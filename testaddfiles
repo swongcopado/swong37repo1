@@ -1,0 +1,7 @@
+I added this file to test the PR issue where it includes files from other commits into main.
+
+So what I did here is:
+1. Create this branch 'feature/testaddfiles' from main.
+2. Added this file to the branch.
+
+Now I am going to create a PR to merge this branch in main.
