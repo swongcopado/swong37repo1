@@ -7689,13 +7689,23 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
-        <field>US14Test__c.US14TestField__c</field>
+        <field>US13Test__c.US13TestField__c</field>
         <readable>false</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
-        <field>US13Test__c.US13TestField__c</field>
+        <field>US14Test__c.US14TestField__c</field>
         <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>US18BasePicklistObj__c.MPLFieldTwo__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>US18BasePicklistObj__c.PLFieldOne__c</field>
+        <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
@@ -13403,10 +13413,13 @@
         <layout>US12Test__c-US12Test Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>US13Test__c-US13Test Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>US14Test__c-US14Test Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>US13Test__c-US13Test Layout</layout>
+        <layout>US18BasePicklistObj__c-US18BasePicklistObj Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>User-User Layout</layout>
@@ -14039,6 +14052,15 @@
         <allowEdit>true</allowEdit>
         <allowRead>true</allowRead>
         <modifyAllRecords>true</modifyAllRecords>
+        <object>US13Test__c</object>
+        <viewAllRecords>true</viewAllRecords>
+    </objectPermissions>
+    <objectPermissions>
+        <allowCreate>true</allowCreate>
+        <allowDelete>true</allowDelete>
+        <allowEdit>true</allowEdit>
+        <allowRead>true</allowRead>
+        <modifyAllRecords>true</modifyAllRecords>
         <object>US14Test__c</object>
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
@@ -14048,7 +14070,7 @@
         <allowEdit>true</allowEdit>
         <allowRead>true</allowRead>
         <modifyAllRecords>true</modifyAllRecords>
-        <object>US13Test__c</object>
+        <object>US18BasePicklistObj__c</object>
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <objectPermissions>
