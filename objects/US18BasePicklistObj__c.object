@@ -165,9 +165,9 @@
             <valueSetDefinition>
                 <sorted>false</sorted>
                 <value>
-                    <fullName>BaseMLValue1</fullName>
+                    <fullName>ReplacedMLValue1</fullName>
                     <default>false</default>
-                    <label>BaseMLValue1</label>
+                    <label>ReplacedMLValue1</label>
                 </value>
                 <value>
                     <fullName>BaseMLValue2</fullName>
@@ -183,11 +183,6 @@
                     <fullName>BaseMLValue4</fullName>
                     <default>false</default>
                     <label>BaseMLValue4</label>
-                </value>
-                <value>
-                    <fullName>BaseMLValue5</fullName>
-                    <default>false</default>
-                    <label>BaseMLValue5</label>
                 </value>
             </valueSetDefinition>
         </valueSet>
@@ -210,9 +205,9 @@
                     <label>BaseValue1</label>
                 </value>
                 <value>
-                    <fullName>BaseValue2</fullName>
+                    <fullName>ReplacedValue2</fullName>
                     <default>false</default>
-                    <label>BaseValue2</label>
+                    <label>ReplacedValue2</label>
                 </value>
                 <value>
                     <fullName>BaseValue3</fullName>
@@ -220,14 +215,19 @@
                     <label>BaseValue3</label>
                 </value>
                 <value>
-                    <fullName>BaseValue4</fullName>
+                    <fullName>ReplacedValue4</fullName>
                     <default>false</default>
-                    <label>BaseValue4</label>
+                    <label>ReplacedValue4</label>
                 </value>
                 <value>
                     <fullName>BaseValue5</fullName>
                     <default>false</default>
                     <label>BaseValue5</label>
+                </value>
+                <value>
+                    <fullName>AddedBaseValue6</fullName>
+                    <default>false</default>
+                    <label>AddedBaseValue6</label>
                 </value>
             </valueSetDefinition>
         </valueSet>
