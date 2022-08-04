@@ -170,9 +170,9 @@
                     <label>BaseMLValue1</label>
                 </value>
                 <value>
-                    <fullName>BaseMLValue2</fullName>
+                    <fullName>NewMLValue2</fullName>
                     <default>false</default>
-                    <label>BaseMLValue2</label>
+                    <label>NewMLValue2</label>
                 </value>
                 <value>
                     <fullName>BaseMLValue3</fullName>
@@ -185,9 +185,9 @@
                     <label>BaseMLValue4</label>
                 </value>
                 <value>
-                    <fullName>BaseMLValue5</fullName>
+                    <fullName>UpdateDeletedMLValue5</fullName>
                     <default>false</default>
-                    <label>BaseMLValue5</label>
+                    <label>UpdateDeletedMLValue5</label>
                 </value>
             </valueSetDefinition>
         </valueSet>
@@ -210,9 +210,9 @@
                     <label>BaseValue1</label>
                 </value>
                 <value>
-                    <fullName>BaseValue2</fullName>
+                    <fullName>Replaced2XValue2</fullName>
                     <default>false</default>
-                    <label>BaseValue2</label>
+                    <label>Replaced2XValue2</label>
                 </value>
                 <value>
                     <fullName>BaseValue3</fullName>
@@ -220,14 +220,14 @@
                     <label>BaseValue3</label>
                 </value>
                 <value>
-                    <fullName>BaseValue4</fullName>
-                    <default>false</default>
-                    <label>BaseValue4</label>
-                </value>
-                <value>
                     <fullName>BaseValue5</fullName>
                     <default>false</default>
                     <label>BaseValue5</label>
+                </value>
+                <value>
+                    <fullName>NewBaseValue6</fullName>
+                    <default>false</default>
+                    <label>NewBaseValue6</label>
                 </value>
             </valueSetDefinition>
         </valueSet>
