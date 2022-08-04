@@ -7620,6 +7620,16 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
+        <field>US18BasePicklistObj__c.MPLFieldTwo__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>US18BasePicklistObj__c.PLFieldOne__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
         <field>User.copado__API_URL__c</field>
         <readable>false</readable>
     </fieldPermissions>
@@ -13340,6 +13350,9 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>US16Test__c-US16Test Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>US18BasePicklistObj__c-US18BasePicklistObj Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>User-User Layout</layout>
