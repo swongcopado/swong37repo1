@@ -1,9 +1,7 @@
 public class HelloWorld {
     
     static public String sayHello() {
-        
-        // Story 1 - addition
-    
+        // re-sync from hotfix - 22-08-06 0649
         return 'Hello World';
     }
 
