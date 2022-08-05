@@ -12,6 +12,9 @@ public class HelloWorld {
       // That's because Copado sees that another User Story containing the same file is being merged into the branch. 
       // Copado does not track files across user stories, i.e. it doesn't know that this class was backpromoted from the same user story that is already in SIT. 
       // This might be some good intelligence that can be added to the product but have to study deeper to understand the implications.
+      // 
+      
+        // Testing pre-post deployment steps handling with Copado. Dummy change here
     
         return 'Hello World';
     }
