@@ -1,7 +1,7 @@
 public class ExpBPtoSource {
     
     static public void hello() {
-        String hello = 'Hello Australia';
+        String hello = 'Hello World and Australia';
     }
 
 }
