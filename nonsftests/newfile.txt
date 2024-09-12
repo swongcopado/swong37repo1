@@ -1,0 +1,7 @@
+I added this file in this branch that was created from main,
+and I am going to create a PR to merge this to SIT,
+to simulate the same process that Copado goes through
+when creating a new User STory branch.
+
+To test if the same issue with additional files in PR 
+appears.
